@@ -1,0 +1,20 @@
+[
+    {
+        "fname" : "Suraj",
+        "lname" : "Dadas",
+        "email" : "suraj@gmail.com",
+        "message" : "I am Suraj Dadas"
+    },
+    {
+        "fname" : "Arjun",
+        "lname" : "Dadas",
+        "email" : "arjun@gmail.com",
+        "message" : "I am Arjun Dadas"
+    },
+    {
+        "fname" : "Yogi",
+        "lname" : "Dadas",
+        "email" : "yogi@gmail.com",
+        "message" : "I am Yogi Dadas"
+    }
+]
